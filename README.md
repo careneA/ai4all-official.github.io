@@ -1,4 +1,4 @@
-# Ethical Trading
+# Ethical Trading - INVESTHIC
 
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the AI4ALL Ignite program.
