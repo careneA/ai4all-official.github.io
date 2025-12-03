@@ -101,4 +101,4 @@ List the names and contact information (e.g., email, GitHub profiles) of the aut
 *EXAMPLE:*
 *This project was completed in collaboration with:*
 - *Carene Kouassi (aakoua27@colby.edu)*
-- *Glory ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Glory Ndubuisi Oluavu ([gloryn1@umbc.edu])*
