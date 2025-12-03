@@ -1,4 +1,4 @@
-# Ethical Trading - INVESTHIC
+# Ethical Investment - INVESTHIC
 
 INVESTHIC is an AI-powered tool designed to help investors make ethical, socially responsible, and data-driven trading decisions. Using financial news sentiment analysis, ESG (Environmental, Social, Governance) metrics, and ROI projections, INVESTHIC provides a transparent, interactive platform to evaluate companies for responsible investing.
 
